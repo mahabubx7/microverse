@@ -1,4 +1,4 @@
-// Create Phone Number
+// Even or Odd
 
 /**
  * Create a function that takes an integer as an argument
